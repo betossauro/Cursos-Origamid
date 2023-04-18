@@ -6,7 +6,7 @@ Repositório para armazenar todos os cursos realizados da Origamid.
 
 ## Progresso ⌛
 
-🔳 UI Design para Iniciantes
+✅ UI Design para Iniciantes - Certificado: origamid.com/certificate/2081f25b 
 
 🔳 HTML e CSS para Iniciantes
 
