@@ -8,15 +8,15 @@ Repositório para armazenar todos os cursos realizados da Origamid.
 
 ✅ UI Design para Iniciantes - Certificado: origamid.com/certificate/2081f25b 
 
-🔳 HTML e CSS para Iniciantes
+✅ HTML e CSS para Iniciantes
 
-⬜ CSS Flexbox 
+✅ CSS Flexbox 
 
-⬜ CSS Grid Layout
+✅ CSS Grid Layout
 
 ⬜ UI Design Avançado 
 
-⬜ JavaScript Completo ES6 
+⏳ JavaScript Completo ES6 
 
 ⬜ React Completo
 
